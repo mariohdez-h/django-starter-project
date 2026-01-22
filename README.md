@@ -1,2 +1,11 @@
-# django-starter-project
-Base Django project for scalable web applications
+# Django Starter Project
+
+Base project structure for Django-based applications.
+
+## Technologies
+- Python
+- Django
+
+## Author
+Mario Hernandez
+
